@@ -1,0 +1,22 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "exports": "./index.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "dotenv": "^17.2.0",
+    "inquirer": "^12.7.0",
+    "mongoose": "^8.16.4",
+    "nanoid": "^5.1.5",
+    "ora": "^8.2.0"
+  }
+}
